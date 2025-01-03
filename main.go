@@ -1,7 +1,7 @@
 package main
 
 import (
-	"naylan.dev/calculator/arithmetic"
+	"github.com/i1d9/calculator-go/arithmetic"
 )
 
 func main() {
